@@ -22,12 +22,12 @@ import (
 )
 
 const (
-    AWS_S3_REGION = "<awsregion>"
-    AWS_S3_BUCKET = "<namebucket>"
-	ORGANIZATION_URL = "<urlorganization>"
-	PAT = "<parazuredevops>"
-	PATH_TO_SAVE_REPO = "<pathtosave>"
-	ZIP_NAME = "<namezip>"
+    	 AWS_S3_REGION = "<awsregion>"
+   		 AWS_S3_BUCKET = "<namebucket>"
+		 ORGANIZATION_URL = "<urlorganization>"
+		 PAT = "<parazuredevops>"
+		 PATH_TO_SAVE_REPO = "<pathtosave>"
+		 ZIP_NAME = "<namezip>"
 )
 
 
