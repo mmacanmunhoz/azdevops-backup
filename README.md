@@ -12,3 +12,17 @@ This project aims to download azuredevops projects from an ssh connection, downl
 go run main.go
 
 ```
+
+#### For Build Docker Image
+
+```
+docker build -f Dockerfile -t <nameusername>/<nameimage> .
+
+```
+
+#### For Run Docker Image
+
+```
+docker run -d <nameimage>
+
+```
