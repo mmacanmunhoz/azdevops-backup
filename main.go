@@ -253,10 +253,3 @@ func recoverExecution() {
 		fmt.Println("Execucao recuperada com sucesso")
 	}
 }
-
-
-
-
-
-
-
