@@ -10,6 +10,3 @@
 go run azuredevops.go
 
 ```
-
--   `go run main.go` - Execu
--   `runner` - Which github runtime agent to run on. Required: `true`.
