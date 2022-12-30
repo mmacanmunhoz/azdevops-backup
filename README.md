@@ -7,6 +7,6 @@
 #### For Executions
 
 ```
-go run azuredevops.go
+go run main.go
 
 ```
